@@ -1,0 +1,4 @@
+﻿var @VariableNameClass@ = new @ClassName@()
+{
+    @PropertyName@ = @PropertyValue@,
+};
